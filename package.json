@@ -1,0 +1,25 @@
+{
+    "name": "babel-plugin-react-component-sources",
+    "description": "Add fileName code_line code_column into React Fiber",
+    "version": "0.0.1",
+    "author": "Bzayyz",
+    "license": "MIT",
+    "main": "./src/index.js",
+    "homepage": "https://github.com/Bzayyz",
+    "engines": {
+        "node": ">=6.9.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Bzayyz/babel-react-component-sources"
+    },
+    "bugs": {
+        "url": "https://github.com/Bzayyz/babel-react-component-sources/issues"
+    },
+    "peerDependencies": {
+        "@babel/core": "^7.0.0"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.0.0"
+    }
+}
